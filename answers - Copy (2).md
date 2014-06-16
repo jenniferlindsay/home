@@ -1,2 +1,18 @@
-# Jennifer Lindsay von Julin #
-# Technical Reading Assessment Responses #
+# Step 5: Cave Gnome Logic Assessment #
+
+**1. How did they do this?**  
+When the first gnome exist the cave he walks out and faces the cave. When the second gnome exists he walks out and stands next to the first gnome, also facing the cave. When the third gnome exits the cave, he looks at the foreheads of the first two gnomes and checks what colors they are. If they are both red or both blue, he stands on either end of the two gnomes. This would result in the first two gnomes having the same color and standing next to each other, and the third gnome having the either the same color forehead as them, or the other color, and standing next to them.  
+If the first gnome has a red forehead and the second gnome has a blue forehead, the third gnome takes a spot in between the two gnomes. This would result in the first two gnomes having different colors and being split in the middle by the third gnome whose color matches one of the first two gnomes, and the three gnomes would be sorted.  
+  
+When the fourth gnome exits the cave, he determines if the three gnomes have the same color foreheads or different colors. If they have the same colors, he stands on either end of them. If they have different colors, the two with the same color should be standing next to each other with the gnome with the different color standing on the side of them, and the fourth gnome walks out and stands in between the two colors, with a gnome with a red forehead on one side and a gnome with a blue forehead on the other side. The fourth gnome’s forehead color will be the same color as either the gnome on his left or the gnome on his right, and the gnomes will be sorted. The fifth gnome does the same thing as the fourth gnome, and so do the following gnomes. When the gnomes pick the spot between the two colors, the next gnome exiting the cave will be able to tell which side the preceding gnome belongs to.  
+  
+**2. How did you arrive at that answer? Show your process.**  
+I played around with little pieces of red and blue papers until I realized that standing between the two colors was the only way for a gnome to be sure that he would not mess up the sorting whatever color his forehead was.  
+  
+**3. What other possible answers are there?**  
+The first gnome can exit and stand anywhere. Then the second gnome exists and stands somewhere, and the first gnome walks up to the second gnome, creating a group. The third gnome exits and stands somewhere, and the first gnome determines if the third gnome is the same color as the second gnome. If they are the same color, the first gnome walks up to the third gnome, and his group follows. If they are different colors, the first gnome does not walk up to the third gnome, and instead leaves the third gnome standing alone.  
+  
+The fourth gnome exits and stands somewhere, and the first gnome decides if he is the same color as the second gnome or not. If they are, he walks up to the fourth gnome and his group follows. Meanwhile, the third gnome (if he is alone) determines if the fourth gnome has the same or a different color than the second gnome. If they are the same color, the third gnome remains alone. If they are different colors, the third gnomes walks up to the fourth gnome, creating a second group.
+The two groups will have different colored foreheads, except the first gnome who will not know what color his forehead is. When all the gnomes have exited the cave and joined one of the two groups, they line up next to each other, and the first gnome takes a spot between the two groups. He will end up belonging to either the group of gnomes on his left or the group of gnomes on his right.  
+  
+Theoretically this works but it is not a good method because walking up to a gnome and this resulting in the other gnome understanding that he is part of a group could technically be considered communicating.  
