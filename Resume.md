@@ -19,7 +19,7 @@ Having spent my life living in various countries I adapt easily to new situation
 
 * Graduated from the Swedish school system in 2007.
 * Graduated from Juanita High School in 2009.
-* Completed associate degree at Bellevue College in spring 2013,  3.9 GPA
+* Completed associate degree at Bellevue College in spring 2013,  3.9 GPA.
 
 ## WORK EXPERIENCE ##
 
