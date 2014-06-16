@@ -5,7 +5,7 @@ It creates a gem called foodie using bundler, which involves a scaffold director
 **Rakefile**: adds the build, install and release tasks.  
 **.gitignore**: ignores anything in the pkg directory, anything with a .gem extension, and the bundle directory,  
 **foodie.gemspec**: where we provide information for Rubygems' consumption (the gem's name, description, and homepage, etc.) and specifies the dependencies that our gem needs to run.  
-**lib/foodie.rb**: defines our gem�s code, and is required by Bundler when our gem is loaded. It sets up our gem�s environment.  
+**lib/foodie.rb**: defines our gem's code, and is required by Bundler when our gem is loaded. It sets up our gem's environment.  
 **lib/foodie**: contains all the code for the gem.  
 **lib/foodie/version.rb**: defines a foodie module which includes a version constant that we update when we release a new version.  
   
